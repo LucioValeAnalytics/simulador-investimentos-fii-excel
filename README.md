@@ -91,7 +91,7 @@ A utilização de nomes definidos como `Salario`, `Rendimento`, `Proposta`, `Apo
 
 Confira uma demonstração da ferramenta desenvolvida em Excel:
 
-[![Demonstração do projeto](assets/preview.png)](assets/demo.mp4)
+[![Demonstração do projeto](assets/link.png)](assets/demo.mp4)
 
 > Clique na imagem para assistir à demonstração completa da planilha.
 
